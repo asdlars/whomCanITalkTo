@@ -1,0 +1,26 @@
+.atlas {
+  width: 100vw;
+  height: auto;
+  background-color: #256d7b;
+}
+
+.mundo {
+}
+
+.land:hover {
+  stroke: black;
+  fill: darkgreen;
+}
+
+.other-lang {
+  fill: #FF8080 !important;
+  stroke: #FF8080 !important;
+}
+.partial-lang {
+  fill: #D40000 !important;
+  stroke: #D40000 !important;
+}
+.main-lang {
+  fill: #800000 !important;
+  stroke: #800000 !important;
+}
